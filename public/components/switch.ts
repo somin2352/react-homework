@@ -1,8 +1,8 @@
 import React from '../lib/react.js';
 
 function Switch() {
-  const handleClick = (e) => {
-    const img = e.target;
+  const handleClick = (e: Event) => {
+    const img = e.target as HTMLImageElement;
 
     if (img) {
       img.src = img.src.includes('Switch-off') ? '/assets/Switch-on.svg' : '/assets/Switch-off.svg';
