@@ -1,5 +1,5 @@
 1. Component Homework
 
-- Switch Component
-- Chip Component
-- app component
+- Switch Component: [https://github.com/somin2352/react-homework/blob/main/public/components/switch.ts]
+- Chip Component: [https://github.com/somin2352/react-homework/blob/main/public/components/chip.ts]
+- app component: [https://github.com/somin2352/react-homework/blob/main/public/components/app.ts]
