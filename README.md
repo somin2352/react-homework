@@ -1,4 +1,5 @@
-# 사용자 인터페이스(UI) 프로그래밍
+1. Component Homework
 
-명령형 프로그래밍 vs. 선언형 프로그래밍 (with React)
-
+- Switch Component
+- Chip Component
+- app component
